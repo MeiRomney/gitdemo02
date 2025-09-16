@@ -9,5 +9,5 @@ public class Main {
         return "world! ";
     }
 
-    public static String a() {return "hello! "; }
+    public static String a() {return "Sursdey! "; }
 }
